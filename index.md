@@ -1,7 +1,9 @@
 # Header 1
 add more content
 
-
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 
 ```
@@ -27,5 +29,6 @@ var myVar = "Hello, world!";
 
 
 I put some text in this file
+
 
 
