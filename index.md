@@ -7,7 +7,7 @@ add more content
 
 
 
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 
@@ -22,3 +22,4 @@ add more content
 
 
 I put some text in this file
+
